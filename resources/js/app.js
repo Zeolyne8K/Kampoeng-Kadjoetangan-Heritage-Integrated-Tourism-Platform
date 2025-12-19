@@ -1,0 +1,16 @@
+import './bootstrap';
+import './components/InteractNavbar';
+import './user/Culinery';
+import './user/PhotoSpot';
+import './user/Event';
+import './user/Awards';
+import './user/pages/SpotFoto';
+import './user/pages/Kuliner';
+import './user/pages/Event';
+import './user/pages/Award';
+import './user/pages/Feedback';
+import './user/katalog/Katalog';
+import './user/payments/Arrive';
+import './user/payments/Method';
+import './user/payments/Bill';
+import './user/Chatbot';
